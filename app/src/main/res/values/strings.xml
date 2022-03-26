@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">App Información</string>
+
+    <!-- Datos Personales -->
+    <string name="nombre">Agustín Ollín García González</string>
+    <string name="numeroTelefonico">2461980687</string>
+    <string name="correoElectronico">lc16161312@voaxaca.tecnm.mx</string>
+    <string name="cuentaGitHub">agustin-ollin</string>
+    <string name="descripcionAcademica">
+        Estudiante de Octavo semestre del Instituto Tecnológico del Valle de Oaxaca de la carrera de Ingeniería Informática.
+    </string>
+    <string name="descripcionLenguajes">Java, Kotlin y JavaScript</string>
+    <string name="descripcionActividadExt">Aprendiz de Guitarra Clásica</string>
+    <string name="fechaNacimiento">28/08/1998</string>
+
+    <!-- Información Académica e Institucional -->
+    <string name="nombreEscuela">Instituto Tecnológico del Valle de Oaxaca</string>
+    <string name="nombreMateria">Desarrollo de Aplicaciones Móviles</string>
+    <string name="nombreProfesor">Benedicto Ramírez Santiago</string>
+    <string name="grupoAlumno">I8B</string>
+    <string name="semestreAlumno">8°</string>
+    <string name="lugarEscuela">Oaxaca de Juárez</string>
+
+    <!-- Descripción de Fotos e imágenes -->
+    <string name="descripcionLogoItvo">Logotipo del ITVO</string>
+    <string name="descripcionFotoPerfil">Foto de Perfil de Agustín Ollín</string>
+    <string name="descripcionLogoSEP">Logotipo de la SEP</string>
+
+    <!-- Etiquetas de activity_main -->
+    <string name="etProfesor">Profesor: </string>
+    <string name="etAlumno">Alumno: </string>
+    <string name="etGrupo">Grupo: </string>
+    <string name="etSemestre">Semestre: </string>
+    <string name="textoBoton">Siguiente</string>
+
+    <!-- Etiquetas de activity_cvollin -->
+    <string name="etDedicacion">Universitario</string>
+    <string name="etContacto">Datos de Contacto</string>
+    <string name="etTelefono">Teléfono:</string>
+    <string name="etEmail">Email:</string>
+    <string name="etGitHub">GitHub:</string>
+    <string name="etFechaNac">Fecha de Nacimiento:</string>
+
+    <string name="etEducacion">Educación</string>
+    <string name="etLenguajesProg">Lenguajes de Programación</string>
+    <string name="etActividadExt">Actividad Extracurricular</string>
+
+
+</resources>
